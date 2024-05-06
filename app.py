@@ -97,7 +97,7 @@ def run_streamlit(pipeline, messages):
         This application takes a user query (e. g., clinical question) and generates a summary of evidence-based recommendations on geriatric trauma care, relevant to this query. \n
         DO NOT ENTER PERSONAL INFORMATION OR PATIENT DATA! \n
         <u>Publication:</u> Kocar et al. 2024, submitted <br>
-        <u>GitHub:</u> <links> <br>
+        <u>GitHub:</u> https://github.com/IfGF-UUlm/CPG-summarization <br>
         <u>Contact:</u> thomas.kocar@uni-ulm.de
         """,
         unsafe_allow_html=True
