@@ -20,10 +20,10 @@ Enter your query in the text input box and receive a summary of the most relevan
 
 ## Dependencies
 This project requires the following dependencies:
-- Pandas
-- Haystack
-- haystack_integrations
-- Streamlit
+- pandas
+- haystack-ai
+- cohere-haystack
+- streamlit
 
 You can install all dependencies by running `conda env create -f environment.yml`.
 
