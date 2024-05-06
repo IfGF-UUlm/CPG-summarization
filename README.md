@@ -14,7 +14,7 @@ The repository has the following structure:
 ## Getting Started
 To get started with RAG-summarizer, follow these steps:
 Insert your OpenAI and Cohere API keys or use secret or environment variables 
-Set up a virtual environment by running `conda env create -f environment.yml` and activate it
+Set up a virtual environment by running `conda env create -f environment.yml -p ./env` and activate it
 Run the application with `streamlit run app.py`
 Enter your query in the text input box and receive a summary of the most relevant CPG recommendations.
 
@@ -25,7 +25,7 @@ This project requires the following dependencies:
 - cohere-haystack
 - streamlit
 
-You can install all dependencies by running `conda env create -f environment.yml`.
+You can install all dependencies by running `conda env create -f environment.yml -p ./env`.
 
 ## Example
 The application is made openly available on huggingface spaces: https://huggingface.co/spaces/IfGF-UUlm/ChatCPG-demo
