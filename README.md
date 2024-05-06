@@ -28,7 +28,7 @@ This project requires the following dependencies:
 You can install all dependencies by running `conda env create -f environment.yml`.
 
 ## Example
-The application is made openly available on huggingface spaces: link
+The application is made openly available on huggingface spaces: https://huggingface.co/spaces/IfGF-UUlm/ChatCPG-demo
 
 **user query**: ‘How can I treat delirium?’
 
