@@ -60,8 +60,26 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ## Citation
-If you use this code in your research, please cite our paper: \
-[The associated paper has been submitted for publication. The citation details will be updated once the paper is accepted.]
+If you use this code in your research, please cite our paper:
+
+```bibtex
+@article{kocar_guideline_review_2025,
+	title = {Evidence-{Based} {Recommendations} for {Geriatric} {Trauma} {Care}: {Systematic} {Review} and {AI}-{Assisted} {Consolidation} of {Clinical} {Practice} {Guidelines} {Between} 2016 and 2021},
+	volume = {6},
+	issn = {2691-3593},
+	shorttitle = {Evidence-{Based} {Recommendations} for {Geriatric} {Trauma} {Care}},
+	url = {https://journals.lww.com/10.1097/AS9.0000000000000627},
+	doi = {10.1097/AS9.0000000000000627},
+	language = {en},
+	number = {4},
+	urldate = {2025-11-17},
+	journal = {Annals of Surgery Open},
+	author = {Kocar, Thomas D. and Fotteler, Marina L. and Willems, Jana and Leinert, Christoph and Uihlein, Adriane and Wolf, Philip and Voigt-Radloff, Sebastian and Schütze, Konrad and Gebhard, Florian and Dallmeier, Dhayana and Kestler, Hans and Denkinger, Michael},
+	month = nov,
+	year = {2025},
+	pages = {e627}
+}
+```
 
 ## Contact
 For any questions, feedback, or concerns, please contact us at thomas.kocar@uni-ulm.de.
